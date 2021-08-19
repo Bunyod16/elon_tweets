@@ -1,2 +1,2 @@
 # elon_tweets
-A script that alerts you when elon makes a tweet
+A script to analyse the relation for the value of cryptocurrency and tweets of influencial people.
